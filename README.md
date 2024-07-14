@@ -53,3 +53,17 @@ Finds and returns a list of near-duplicate images based on the specified thresho
 The main function that initializes the parameters and calls the `FindDuplicates` function.
 
 ## Example Output
+![image](https://github.com/user-attachments/assets/5cabaee8-2111-4bac-a2f9-7fbe7f3750d0)
+
+
+
+
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgements
+- This script uses the `imagehash` library for image hashing.
+- Locality Sensitive Hashing (LSH) technique inspired by various academic resources.
+
+
