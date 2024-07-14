@@ -1,4 +1,4 @@
-# Blockchain
+Locality Sensitive Hashing
 # Image Duplicate Finder
 
 This Python script identifies near-duplicate images in a specified directory using image hashing and Locality Sensitive Hashing (LSH). It computes a perceptual hash for each image and then identifies pairs of images that are similar based on a specified threshold.
